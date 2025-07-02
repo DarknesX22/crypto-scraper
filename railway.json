@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "start": "echo 'This is a cron-only project'"
+  }
+}
